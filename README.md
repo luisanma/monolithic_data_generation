@@ -14,6 +14,7 @@ monolithic_data_generation/
 ├── utils.py                # Utility functions
 ├── langollama-simple.ipynb # Jupyter notebook for exploration
 └── requirements.txt        # Project dependencies
+```tree
 
 ## Instrucciones para Ejecutar el Servicio
 
