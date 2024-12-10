@@ -6,6 +6,7 @@ Esta es una solución monolítica de generación de respuestas utilizando inteli
 
 La estructura del proyecto es la siguiente:
 
+```tree
 monolithic_data_generation/
 │
 ├── app_event.py            # Main application logic
